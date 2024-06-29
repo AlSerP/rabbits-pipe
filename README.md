@@ -31,7 +31,7 @@ queues:
 ```
 
 ## Startup
-Creaete configuration file config.yml and run
+Create configuration file config.yml and run
 ```
-ruby rabbits_pipe.yml
+ruby rabbits_pipe.rb
 ```
